@@ -1,0 +1,3844 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Workshop2",
+            "pos": [
+                8741.169921875,
+                175.94700622558595,
+                2855.429931640625
+            ],
+            "ypr": [
+                31.591846466064454,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodPile_Forest3",
+            "pos": [
+                8791.009765625,
+                161.48399353027345,
+                2926.14990234375
+            ],
+            "ypr": [
+                40.769317626953128,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [
+                8770.9501953125,
+                161.6230010986328,
+                2929.760009765625
+            ],
+            "ypr": [
+                83.41768646240235,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoundaryStone_Plastic",
+            "pos": [
+                8710.990234375,
+                131.6020050048828,
+                3003.169921875
+            ],
+            "ypr": [
+                -21.59867286682129,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoundaryStone_Plastic",
+            "pos": [
+                8711.8203125,
+                131.50100708007813,
+                3003.429931640625
+            ],
+            "ypr": [
+                -16.20003318786621,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8715.400390625,
+                158.77099609375,
+                2914.179931640625
+            ],
+            "ypr": [
+                27.81075668334961,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3906.449951171875,
+                331.3819885253906,
+                10928.2001953125
+            ],
+            "ypr": [
+                -72.62840270996094,
+                -6.001425743103027,
+                0.2495298534631729
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3890.449951171875,
+                330.239990234375,
+                10933.7998046875
+            ],
+            "ypr": [
+                -77.48976135253906,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3866.590087890625,
+                331.1289978027344,
+                10925.900390625
+            ],
+            "ypr": [
+                47.787803649902347,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3852.300048828125,
+                330.802001953125,
+                10914.400390625
+            ],
+            "ypr": [
+                49.95174789428711,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3845.25,
+                331.1830139160156,
+                10893.0
+            ],
+            "ypr": [
+                32.400054931640628,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2B",
+            "pos": [
+                3812.389892578125,
+                328.5220031738281,
+                10882.599609375
+            ],
+            "ypr": [
+                -23.22151756286621,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3807.590087890625,
+                328.6820068359375,
+                10891.599609375
+            ],
+            "ypr": [
+                87.24040985107422,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3801.909912109375,
+                328.3489990234375,
+                10889.0
+            ],
+            "ypr": [
+                -10.529354095458985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3802.219970703125,
+                328.61199951171877,
+                10873.2001953125
+            ],
+            "ypr": [
+                -12.9583740234375,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3810.280029296875,
+                329.0400085449219,
+                10849.099609375
+            ],
+            "ypr": [
+                -45.36098861694336,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3850.239990234375,
+                330.72698974609377,
+                10815.2001953125
+            ],
+            "ypr": [
+                -49.13792037963867,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3884.909912109375,
+                333.29998779296877,
+                10741.900390625
+            ],
+            "ypr": [
+                -63.72268295288086,
+                -5.000140190124512,
+                -0.2422153204679489
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3867.830078125,
+                332.197998046875,
+                10776.099609375
+            ],
+            "ypr": [
+                -7.01864767074585,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3897.8798828125,
+                335.08599853515627,
+                10739.2001953125
+            ],
+            "ypr": [
+                23.759300231933595,
+                -2.998345375061035,
+                0.1520506888628006
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3900.179931640625,
+                334.89898681640627,
+                10745.0
+            ],
+            "ypr": [
+                15.951627731323243,
+                -2.0007224082946779,
+                -0.0010718192206695676
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3907.139892578125,
+                334.35101318359377,
+                10760.7998046875
+            ],
+            "ypr": [
+                12.689388275146485,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3909.830078125,
+                333.3160095214844,
+                10795.2998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3909.5,
+                332.89300537109377,
+                10814.900390625
+            ],
+            "ypr": [
+                -0.26927438378334048,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3909.56005859375,
+                332.6910095214844,
+                10825.7001953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3909.340087890625,
+                332.5669860839844,
+                10848.599609375
+            ],
+            "ypr": [
+                2.1581943035125734,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3910.659912109375,
+                332.7560119628906,
+                10874.599609375
+            ],
+            "ypr": [
+                15.930732727050782,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3879.02001953125,
+                329.739013671875,
+                10923.900390625
+            ],
+            "ypr": [
+                -84.77806091308594,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3904.93994140625,
+                331.35400390625,
+                10887.7998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3890.489990234375,
+                330.4880065917969,
+                10848.2001953125
+            ],
+            "ypr": [
+                59.93738555908203,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3891.610107421875,
+                331.1969909667969,
+                10802.099609375
+            ],
+            "ypr": [
+                89.1047134399414,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3895.860107421875,
+                332.2179870605469,
+                10754.2998046875
+            ],
+            "ypr": [
+                67.22883605957031,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                3886.8701171875,
+                330.5840148925781,
+                10779.7998046875
+            ],
+            "ypr": [
+                -101.51737976074219,
+                -5.0001397132873539,
+                0.3274478018283844
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3880.760009765625,
+                330.9960021972656,
+                10778.2998046875
+            ],
+            "ypr": [
+                9.719407081604004,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3871.47998046875,
+                330.2690124511719,
+                10795.2998046875
+            ],
+            "ypr": [
+                -166.8585205078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3858.739990234375,
+                329.8789978027344,
+                10814.900390625
+            ],
+            "ypr": [
+                124.19928741455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3854.27001953125,
+                329.64898681640627,
+                10832.099609375
+            ],
+            "ypr": [
+                173.42861938476563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3853.639892578125,
+                329.5050048828125,
+                10835.7001953125
+            ],
+            "ypr": [
+                -47.79301452636719,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3842.239990234375,
+                329.1719970703125,
+                10832.099609375
+            ],
+            "ypr": [
+                168.47659301757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                3888.64990234375,
+                330.0539855957031,
+                10809.7998046875
+            ],
+            "ypr": [
+                85.56765747070313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3904.02001953125,
+                330.7439880371094,
+                10825.099609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierT",
+            "pos": [
+                8763.3203125,
+                166.78799438476563,
+                2875.68994140625
+            ],
+            "ypr": [
+                35.370216369628909,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierL",
+            "pos": [
+                8773.349609375,
+                166.70399475097657,
+                2892.489990234375
+            ],
+            "ypr": [
+                92.61029052734375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierL",
+            "pos": [
+                8750.1904296875,
+                168.91700744628907,
+                2859.929931640625
+            ],
+            "ypr": [
+                124.19308471679688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1B01_Pub",
+            "pos": [
+                8723.4697265625,
+                160.39300537109376,
+                2926.169921875
+            ],
+            "ypr": [
+                -48.871368408203128,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [
+                8793.51953125,
+                162.218994140625,
+                2917.699951171875
+            ],
+            "ypr": [
+                0.26927438378334048,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_table",
+            "pos": [
+                8783.7099609375,
+                161.4199981689453,
+                2925.889892578125
+            ],
+            "ypr": [
+                -49.680763244628909,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8766.5595703125,
+                164.27099609375,
+                2893.6201171875
+            ],
+            "ypr": [
+                52.64787292480469,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.25,
+                164.2449951171875,
+                2896.780029296875
+            ],
+            "ypr": [
+                56.15696716308594,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.349609375,
+                164.1179962158203,
+                2900.110107421875
+            ],
+            "ypr": [
+                67.22883605957031,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.3203125,
+                164.0070037841797,
+                2903.3701171875
+            ],
+            "ypr": [
+                114.21001434326172,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8763.7802734375,
+                163.9429931640625,
+                2906.760009765625
+            ],
+            "ypr": [
+                113.9356689453125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.3798828125,
+                163.4669952392578,
+                2910.800048828125
+            ],
+            "ypr": [
+                85.05430603027344,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.0400390625,
+                163.51499938964845,
+                2914.580078125
+            ],
+            "ypr": [
+                84.77806091308594,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8763.6904296875,
+                163.50799560546876,
+                2918.469970703125
+            ],
+            "ypr": [
+                86.96371459960938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.1796875,
+                162.33700561523438,
+                2922.179931640625
+            ],
+            "ypr": [
+                49.411277770996097,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.1298828125,
+                163.0800018310547,
+                2922.139892578125
+            ],
+            "ypr": [
+                50.75746536254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8758.5400390625,
+                162.9320068359375,
+                2923.889892578125
+            ],
+            "ypr": [
+                3.779561758041382,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8755.6796875,
+                162.83099365234376,
+                2925.300048828125
+            ],
+            "ypr": [
+                51.5716667175293,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8749.990234375,
+                156.69900512695313,
+                2923.530029296875
+            ],
+            "ypr": [
+                -23.7591609954834,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8746.400390625,
+                156.69200134277345,
+                2921.929931640625
+            ],
+            "ypr": [
+                -22.40961456298828,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8742.759765625,
+                156.73399353027345,
+                2920.5
+            ],
+            "ypr": [
+                -20.51942253112793,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8739.1904296875,
+                156.6719970703125,
+                2918.570068359375
+            ],
+            "ypr": [
+                -33.748050689697269,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8735.9404296875,
+                156.67999267578126,
+                2916.3798828125
+            ],
+            "ypr": [
+                -32.13123321533203,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8732.490234375,
+                156.76199340820313,
+                2914.929931640625
+            ],
+            "ypr": [
+                -10.259143829345704,
+                0.0,
+                4.986098766326904
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8728.6396484375,
+                156.99099731445313,
+                2914.449951171875
+            ],
+            "ypr": [
+                -2.9703307151794435,
+                0.0,
+                6.008198261260986
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8725.01953125,
+                157.1230010986328,
+                2912.7099609375
+            ],
+            "ypr": [
+                -45.901100158691409,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8721.9296875,
+                157.781005859375,
+                2911.360107421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                19.000062942504884
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8718.7802734375,
+                158.55799865722657,
+                2912.320068359375
+            ],
+            "ypr": [
+                32.94011688232422,
+                0.0,
+                7.988736629486084
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8715.400390625,
+                158.77099609375,
+                2914.179931640625
+            ],
+            "ypr": [
+                27.81075668334961,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8712.080078125,
+                158.77099609375,
+                2916.2099609375
+            ],
+            "ypr": [
+                36.990638732910159,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8709.66015625,
+                158.95899963378907,
+                2918.929931640625
+            ],
+            "ypr": [
+                57.78012466430664,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8709.240234375,
+                158.71200561523438,
+                2921.949951171875
+            ],
+            "ypr": [
+                114.21001434326172,
+                0.0,
+                -2.9695370197296144
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.7099609375,
+                158.62399291992188,
+                2925.6298828125
+            ],
+            "ypr": [
+                112.04643249511719,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.0400390625,
+                158.45199584960938,
+                2929.409912109375
+            ],
+            "ypr": [
+                49.95174789428711,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8708.48046875,
+                158.4250030517578,
+                2932.6201171875
+            ],
+            "ypr": [
+                82.08710479736328,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8708.8203125,
+                158.22900390625,
+                2936.219970703125
+            ],
+            "ypr": [
+                110.70311737060547,
+                0.0,
+                -4.004478454589844
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.150390625,
+                157.67599487304688,
+                2939.919921875
+            ],
+            "ypr": [
+                110.16218566894531,
+                0.0,
+                -7.988735675811768
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8711.16015625,
+                156.947998046875,
+                2943.699951171875
+            ],
+            "ypr": [
+                102.33139038085938,
+                0.0,
+                -7.988738059997559
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8712.0595703125,
+                156.5659942626953,
+                2947.43994140625
+            ],
+            "ypr": [
+                105.83822631835938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                8695.0400390625,
+                128.97900390625,
+                2964.0400390625
+            ],
+            "ypr": [
+                20.250812530517579,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                8702.009765625,
+                142.281005859375,
+                2955.409912109375
+            ],
+            "ypr": [
+                -63.98530578613281,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                8712.9697265625,
+                153.18299865722657,
+                2952.860107421875
+            ],
+            "ypr": [
+                -54.81151580810547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Green",
+            "pos": [
+                8788.6396484375,
+                162.0989990234375,
+                2922.080078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [
+                8793.2802734375,
+                162.41299438476563,
+                2912.860107421875
+            ],
+            "ypr": [
+                0.26927438378334048,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                8746.009765625,
+                158.0070037841797,
+                2932.969970703125
+            ],
+            "ypr": [
+                -112.31505584716797,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                8768.4599609375,
+                162.2209930419922,
+                2915.280029296875
+            ],
+            "ypr": [
+                -10.529354095458985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Workshop2",
+            "pos": [
+                8741.169921875,
+                175.94700622558595,
+                2855.429931640625
+            ],
+            "ypr": [
+                31.591846466064454,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodPile_Forest3",
+            "pos": [
+                8791.009765625,
+                161.48399353027345,
+                2926.14990234375
+            ],
+            "ypr": [
+                40.769317626953128,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [
+                8770.9501953125,
+                161.6230010986328,
+                2929.760009765625
+            ],
+            "ypr": [
+                83.41768646240235,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoundaryStone_Plastic",
+            "pos": [
+                8710.990234375,
+                131.6020050048828,
+                3003.169921875
+            ],
+            "ypr": [
+                -21.59867286682129,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_BoundaryStone_Plastic",
+            "pos": [
+                8711.8203125,
+                131.50100708007813,
+                3003.429931640625
+            ],
+            "ypr": [
+                -16.20003318786621,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7839.06005859375,
+                214.51199340820313,
+                4867.919921875
+            ],
+            "ypr": [
+                19.169816970825197,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7835.22021484375,
+                214.48599243164063,
+                4869.1298828125
+            ],
+            "ypr": [
+                18.89976692199707,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7839.2900390625,
+                214.61700439453126,
+                4875.080078125
+            ],
+            "ypr": [
+                19.43992042541504,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7836.10986328125,
+                214.58599853515626,
+                4873.56982421875
+            ],
+            "ypr": [
+                -69.65977478027344,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierT",
+            "pos": [
+                8763.3203125,
+                166.78799438476563,
+                2875.68994140625
+            ],
+            "ypr": [
+                35.370216369628909,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierL",
+            "pos": [
+                8773.349609375,
+                166.70399475097657,
+                2892.489990234375
+            ],
+            "ypr": [
+                92.61029052734375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Boathouse_PierL",
+            "pos": [
+                8750.1904296875,
+                168.91700744628907,
+                2859.929931640625
+            ],
+            "ypr": [
+                124.19308471679688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_House_1B01_Pub",
+            "pos": [
+                8723.4697265625,
+                160.39300537109376,
+                2926.169921875
+            ],
+            "ypr": [
+                -48.871368408203128,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [
+                8793.51953125,
+                162.218994140625,
+                2917.699951171875
+            ],
+            "ypr": [
+                0.26927438378334048,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_table",
+            "pos": [
+                8783.7099609375,
+                161.4199981689453,
+                2925.889892578125
+            ],
+            "ypr": [
+                -49.680763244628909,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8766.5595703125,
+                164.27099609375,
+                2893.6201171875
+            ],
+            "ypr": [
+                52.64787292480469,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.25,
+                164.2449951171875,
+                2896.780029296875
+            ],
+            "ypr": [
+                56.15696716308594,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.349609375,
+                164.1179962158203,
+                2900.110107421875
+            ],
+            "ypr": [
+                67.22883605957031,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.3203125,
+                164.0070037841797,
+                2903.3701171875
+            ],
+            "ypr": [
+                114.21001434326172,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8763.7802734375,
+                163.9429931640625,
+                2906.760009765625
+            ],
+            "ypr": [
+                113.9356689453125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.3798828125,
+                163.4669952392578,
+                2910.800048828125
+            ],
+            "ypr": [
+                85.05430603027344,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8764.0400390625,
+                163.51499938964845,
+                2914.580078125
+            ],
+            "ypr": [
+                84.77806091308594,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8763.6904296875,
+                163.50799560546876,
+                2918.469970703125
+            ],
+            "ypr": [
+                86.96371459960938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.1796875,
+                162.33700561523438,
+                2922.179931640625
+            ],
+            "ypr": [
+                49.411277770996097,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8762.1298828125,
+                163.0800018310547,
+                2922.139892578125
+            ],
+            "ypr": [
+                50.75746536254883,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8758.5400390625,
+                162.9320068359375,
+                2923.889892578125
+            ],
+            "ypr": [
+                3.779561758041382,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8755.6796875,
+                162.83099365234376,
+                2925.300048828125
+            ],
+            "ypr": [
+                51.5716667175293,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8749.990234375,
+                156.69900512695313,
+                2923.530029296875
+            ],
+            "ypr": [
+                -23.7591609954834,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8746.400390625,
+                156.69200134277345,
+                2921.929931640625
+            ],
+            "ypr": [
+                -22.40961456298828,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8742.759765625,
+                156.73399353027345,
+                2920.5
+            ],
+            "ypr": [
+                -20.51942253112793,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8739.1904296875,
+                156.6719970703125,
+                2918.570068359375
+            ],
+            "ypr": [
+                -33.748050689697269,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8735.9404296875,
+                156.67999267578126,
+                2916.3798828125
+            ],
+            "ypr": [
+                -32.13123321533203,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8732.490234375,
+                156.76199340820313,
+                2914.929931640625
+            ],
+            "ypr": [
+                -10.259143829345704,
+                0.0,
+                4.986098766326904
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8728.6396484375,
+                156.99099731445313,
+                2914.449951171875
+            ],
+            "ypr": [
+                -2.9703307151794435,
+                0.0,
+                6.008198261260986
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8725.01953125,
+                157.1230010986328,
+                2912.7099609375
+            ],
+            "ypr": [
+                -45.901100158691409,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8721.9296875,
+                157.781005859375,
+                2911.360107421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                19.000062942504884
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8718.7802734375,
+                158.55799865722657,
+                2912.320068359375
+            ],
+            "ypr": [
+                32.94011688232422,
+                0.0,
+                7.988736629486084
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7791.39013671875,
+                208.74400329589845,
+                4869.18017578125
+            ],
+            "ypr": [
+                -71.55148315429688,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7810.509765625,
+                205.92300415039063,
+                4879.8701171875
+            ],
+            "ypr": [
+                17.548542022705079,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_16m",
+            "pos": [
+                7805.22998046875,
+                205.88699340820313,
+                4869.75
+            ],
+            "ypr": [
+                17.820159912109376,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7821.60009765625,
+                208.74600219726563,
+                4883.7998046875
+            ],
+            "ypr": [
+                -162.09164428710938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7797.669921875,
+                208.69700622558595,
+                4864.990234375
+            ],
+            "ypr": [
+                108.27086639404297,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8712.080078125,
+                158.77099609375,
+                2916.2099609375
+            ],
+            "ypr": [
+                36.990638732910159,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7815.10986328125,
+                205.906005859375,
+                4871.72021484375
+            ],
+            "ypr": [
+                18.630149841308595,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7813.080078125,
+                205.93499755859376,
+                4865.60009765625
+            ],
+            "ypr": [
+                19.169816970825197,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7801.02001953125,
+                208.78700256347657,
+                4875.31982421875
+            ],
+            "ypr": [
+                108.53671264648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7823.93017578125,
+                208.76199340820313,
+                4873.9599609375
+            ],
+            "ypr": [
+                -71.55148315429688,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7794.72021484375,
+                208.78399658203126,
+                4879.6298828125
+            ],
+            "ypr": [
+                109.07906341552735,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                7839.1298828125,
+                211.48800659179688,
+                4871.0498046875
+            ],
+            "ypr": [
+                -71.00669860839844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7831.60009765625,
+                211.49600219726563,
+                4871.43017578125
+            ],
+            "ypr": [
+                -71.81856536865235,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_DeerStand1",
+            "pos": [
+                7841.169921875,
+                214.68600463867188,
+                4872.6201171875
+            ],
+            "ypr": [
+                -69.92932891845703,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_TrailRoof_Small",
+            "pos": [
+                7792.1298828125,
+                212.3769989013672,
+                4870.7099609375
+            ],
+            "ypr": [
+                -71.00669860839844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Boogieman",
+            "pos": [
+                7814.9501953125,
+                209.6510009765625,
+                4881.27001953125
+            ],
+            "ypr": [
+                7.829777240753174,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodPile1",
+            "pos": [
+                7788.35009765625,
+                211.39199829101563,
+                4868.169921875
+            ],
+            "ypr": [
+                20.250812530517579,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Slum_House3",
+            "pos": [
+                7812.81005859375,
+                210.8699951171875,
+                4866.16015625
+            ],
+            "ypr": [
+                108.80976104736328,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Bench8",
+            "pos": [
+                7817.02001953125,
+                208.93899536132813,
+                4880.22998046875
+            ],
+            "ypr": [
+                18.3609619140625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Bench8",
+            "pos": [
+                7812.02978515625,
+                208.96600341796876,
+                4881.85986328125
+            ],
+            "ypr": [
+                18.89976692199707,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7817.33984375,
+                208.9720001220703,
+                4868.81982421875
+            ],
+            "ypr": [
+                -72.0895004272461,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7819.33984375,
+                208.9759979248047,
+                4872.1201171875
+            ],
+            "ypr": [
+                109.07906341552735,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7820.43994140625,
+                209.11199951171876,
+                4878.33984375
+            ],
+            "ypr": [
+                -71.27717590332031,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7817.41015625,
+                209.0659942626953,
+                4881.31982421875
+            ],
+            "ypr": [
+                18.630149841308595,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7813.7998046875,
+                209.01400756835938,
+                4882.4501953125
+            ],
+            "ypr": [
+                18.630149841308595,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7810.25,
+                208.9980010986328,
+                4883.60986328125
+            ],
+            "ypr": [
+                19.169816970825197,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7810.47021484375,
+                208.9720001220703,
+                4870.0
+            ],
+            "ypr": [
+                -70.19596862792969,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7811.72021484375,
+                209.0469970703125,
+                4873.72021484375
+            ],
+            "ypr": [
+                -69.38609313964844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7811.06005859375,
+                209.0850067138672,
+                4876.64013671875
+            ],
+            "ypr": [
+                19.169816970825197,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7807.169921875,
+                208.96600341796876,
+                4882.1298828125
+            ],
+            "ypr": [
+                -72.63191223144531,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7805.97021484375,
+                208.89999389648438,
+                4878.33984375
+            ],
+            "ypr": [
+                -72.36445617675781,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7805.58984375,
+                208.90199279785157,
+                4877.0400390625
+            ],
+            "ypr": [
+                -72.0895004272461,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7804.509765625,
+                209.0959930419922,
+                4870.83984375
+            ],
+            "ypr": [
+                108.53671264648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7803.2998046875,
+                209.11500549316407,
+                4867.1298828125
+            ],
+            "ypr": [
+                107.72764587402344,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7802.18017578125,
+                209.1479949951172,
+                4866.7001953125
+            ],
+            "ypr": [
+                -72.90341186523438,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7807.9599609375,
+                209.07000732421876,
+                4875.1201171875
+            ],
+            "ypr": [
+                -71.00669860839844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7806.72021484375,
+                209.031005859375,
+                4871.33984375
+            ],
+            "ypr": [
+                -71.27717590332031,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7804.2900390625,
+                209.12100219726563,
+                4863.81005859375
+            ],
+            "ypr": [
+                -71.27717590332031,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7806.0,
+                209.11099243164063,
+                4865.97021484375
+            ],
+            "ypr": [
+                107.72764587402344,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Tin6_1_Pole",
+            "pos": [
+                7809.77978515625,
+                209.3300018310547,
+                4866.27001953125
+            ],
+            "ypr": [
+                14.849832534790039,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7790.02978515625,
+                208.81199645996095,
+                4880.5400390625
+            ],
+            "ypr": [
+                -161.01148986816407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Green",
+            "pos": [
+                7789.6298828125,
+                212.4149932861328,
+                4867.8798828125
+            ],
+            "ypr": [
+                22.951610565185548,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7785.31005859375,
+                206.01400756835938,
+                4876.60009765625
+            ],
+            "ypr": [
+                -71.00669860839844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7778.06982421875,
+                203.34500122070313,
+                4879.580078125
+            ],
+            "ypr": [
+                -69.65596771240235,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7770.5,
+                200.5760040283203,
+                4882.8701171875
+            ],
+            "ypr": [
+                -68.03755187988281,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                7763.06982421875,
+                197.86500549316407,
+                4886.08984375
+            ],
+            "ypr": [
+                -66.69270324707031,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs_nolc",
+            "pos": [
+                7758.509765625,
+                190.45399475097657,
+                4892.0498046875
+            ],
+            "ypr": [
+                113.39551544189453,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_PoleWall_5_1",
+            "pos": [
+                7801.60986328125,
+                208.7429962158203,
+                4862.64013671875
+            ],
+            "ypr": [
+                17.548542022705079,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7792.009765625,
+                211.88800048828126,
+                4884.6298828125
+            ],
+            "ypr": [
+                19.711261749267579,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7791.68017578125,
+                211.9239959716797,
+                4879.14013671875
+            ],
+            "ypr": [
+                110.4343490600586,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7792.2900390625,
+                211.906005859375,
+                4876.330078125
+            ],
+            "ypr": [
+                -160.3778533935547,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7796.14990234375,
+                211.85000610351563,
+                4875.02001953125
+            ],
+            "ypr": [
+                -160.3778533935547,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7795.7998046875,
+                211.93600463867188,
+                4883.330078125
+            ],
+            "ypr": [
+                19.711261749267579,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7797.6298828125,
+                212.01199340820313,
+                4880.080078125
+            ],
+            "ypr": [
+                -69.65596771240235,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7796.9599609375,
+                211.91299438476563,
+                4882.9501953125
+            ],
+            "ypr": [
+                19.440311431884767,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7789.0498046875,
+                211.80999755859376,
+                4865.9501953125
+            ],
+            "ypr": [
+                -160.9190216064453,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7787.52001953125,
+                211.83299255371095,
+                4868.97021484375
+            ],
+            "ypr": [
+                -69.11955261230469,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7789.31982421875,
+                211.83399963378907,
+                4871.3798828125
+            ],
+            "ypr": [
+                109.07906341552735,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7792.740234375,
+                211.73599243164063,
+                4864.66015625
+            ],
+            "ypr": [
+                -160.4706573486328,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7791.2001953125,
+                211.73599243164063,
+                4872.41015625
+            ],
+            "ypr": [
+                -160.19955444335938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7793.52001953125,
+                211.71099853515626,
+                4871.64013671875
+            ],
+            "ypr": [
+                -160.4706573486328,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7794.5498046875,
+                211.63299560546876,
+                4869.669921875
+            ],
+            "ypr": [
+                -71.00669860839844,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7842.14990234375,
+                214.5540008544922,
+                4871.56982421875
+            ],
+            "ypr": [
+                -69.92932891845703,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7841.419921875,
+                214.58700561523438,
+                4874.31005859375
+            ],
+            "ypr": [
+                19.978940963745118,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                7841.14013671875,
+                214.5279998779297,
+                4868.93017578125
+            ],
+            "ypr": [
+                -68.84652709960938,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3906.449951171875,
+                331.3819885253906,
+                10928.2001953125
+            ],
+            "ypr": [
+                -72.62840270996094,
+                -6.001425743103027,
+                0.2495298534631729
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3890.449951171875,
+                330.239990234375,
+                10933.7998046875
+            ],
+            "ypr": [
+                -77.48976135253906,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3866.590087890625,
+                331.1289978027344,
+                10925.900390625
+            ],
+            "ypr": [
+                47.787803649902347,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3852.300048828125,
+                330.802001953125,
+                10914.400390625
+            ],
+            "ypr": [
+                49.95174789428711,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3845.25,
+                331.1830139160156,
+                10893.0
+            ],
+            "ypr": [
+                32.400054931640628,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2B",
+            "pos": [
+                3812.389892578125,
+                328.5220031738281,
+                10882.599609375
+            ],
+            "ypr": [
+                -23.22151756286621,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3807.590087890625,
+                328.6820068359375,
+                10891.599609375
+            ],
+            "ypr": [
+                87.24040985107422,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3801.909912109375,
+                328.3489990234375,
+                10889.0
+            ],
+            "ypr": [
+                -10.529354095458985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3802.219970703125,
+                328.61199951171877,
+                10873.2001953125
+            ],
+            "ypr": [
+                -12.9583740234375,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3810.280029296875,
+                329.0400085449219,
+                10849.099609375
+            ],
+            "ypr": [
+                -45.36098861694336,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3850.239990234375,
+                330.72698974609377,
+                10815.2001953125
+            ],
+            "ypr": [
+                -49.13792037963867,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3884.909912109375,
+                333.29998779296877,
+                10741.900390625
+            ],
+            "ypr": [
+                -63.72268295288086,
+                -5.000140190124512,
+                -0.2422153204679489
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3867.830078125,
+                332.197998046875,
+                10776.099609375
+            ],
+            "ypr": [
+                -7.01864767074585,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3897.8798828125,
+                335.08599853515627,
+                10739.2001953125
+            ],
+            "ypr": [
+                23.759300231933595,
+                -2.998345375061035,
+                0.1520506888628006
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3900.179931640625,
+                334.89898681640627,
+                10745.0
+            ],
+            "ypr": [
+                15.951627731323243,
+                -2.0007224082946779,
+                -0.0010718192206695676
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3907.139892578125,
+                334.35101318359377,
+                10760.7998046875
+            ],
+            "ypr": [
+                12.689388275146485,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2A",
+            "pos": [
+                3909.830078125,
+                333.3160095214844,
+                10795.2998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2C",
+            "pos": [
+                3909.5,
+                332.89300537109377,
+                10814.900390625
+            ],
+            "ypr": [
+                -0.26927438378334048,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3909.56005859375,
+                332.6910095214844,
+                10825.7001953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2E",
+            "pos": [
+                3909.340087890625,
+                332.5669860839844,
+                10848.599609375
+            ],
+            "ypr": [
+                2.1581943035125734,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Container_2D",
+            "pos": [
+                3910.659912109375,
+                332.7560119628906,
+                10874.599609375
+            ],
+            "ypr": [
+                15.930732727050782,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3879.02001953125,
+                329.739013671875,
+                10923.900390625
+            ],
+            "ypr": [
+                -84.77806091308594,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3904.93994140625,
+                331.35400390625,
+                10887.7998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3890.489990234375,
+                330.4880065917969,
+                10848.2001953125
+            ],
+            "ypr": [
+                59.93738555908203,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3891.610107421875,
+                331.1969909667969,
+                10802.099609375
+            ],
+            "ypr": [
+                89.1047134399414,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3895.860107421875,
+                332.2179870605469,
+                10754.2998046875
+            ],
+            "ypr": [
+                67.22883605957031,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                3886.8701171875,
+                330.5840148925781,
+                10779.7998046875
+            ],
+            "ypr": [
+                -101.51737976074219,
+                -5.0001397132873539,
+                0.3274478018283844
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3880.760009765625,
+                330.9960021972656,
+                10778.2998046875
+            ],
+            "ypr": [
+                9.719407081604004,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3871.47998046875,
+                330.2690124511719,
+                10795.2998046875
+            ],
+            "ypr": [
+                -166.8585205078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3858.739990234375,
+                329.8789978027344,
+                10814.900390625
+            ],
+            "ypr": [
+                124.19928741455078,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3854.27001953125,
+                329.64898681640627,
+                10832.099609375
+            ],
+            "ypr": [
+                173.42861938476563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3853.639892578125,
+                329.5050048828125,
+                10835.7001953125
+            ],
+            "ypr": [
+                -47.79301452636719,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                3842.239990234375,
+                329.1719970703125,
+                10832.099609375
+            ],
+            "ypr": [
+                168.47659301757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Long",
+            "pos": [
+                3888.64990234375,
+                330.0539855957031,
+                10809.7998046875
+            ],
+            "ypr": [
+                85.56765747070313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_EndR",
+            "pos": [
+                3904.02001953125,
+                330.7439880371094,
+                10825.099609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8709.66015625,
+                158.95899963378907,
+                2918.929931640625
+            ],
+            "ypr": [
+                57.78012466430664,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8709.240234375,
+                158.71200561523438,
+                2921.949951171875
+            ],
+            "ypr": [
+                114.21001434326172,
+                0.0,
+                -2.9695370197296144
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.7099609375,
+                158.62399291992188,
+                2925.6298828125
+            ],
+            "ypr": [
+                112.04643249511719,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.0400390625,
+                158.45199584960938,
+                2929.409912109375
+            ],
+            "ypr": [
+                49.95174789428711,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8708.48046875,
+                158.4250030517578,
+                2932.6201171875
+            ],
+            "ypr": [
+                82.08710479736328,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8708.8203125,
+                158.22900390625,
+                2936.219970703125
+            ],
+            "ypr": [
+                110.70311737060547,
+                0.0,
+                -4.004478454589844
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8710.150390625,
+                157.67599487304688,
+                2939.919921875
+            ],
+            "ypr": [
+                110.16218566894531,
+                0.0,
+                -7.988735675811768
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8711.16015625,
+                156.947998046875,
+                2943.699951171875
+            ],
+            "ypr": [
+                102.33139038085938,
+                0.0,
+                -7.988738059997559
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen7_4",
+            "pos": [
+                8712.0595703125,
+                156.5659942626953,
+                2947.43994140625
+            ],
+            "ypr": [
+                105.83822631835938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                8695.0400390625,
+                128.97900390625,
+                2964.0400390625
+            ],
+            "ypr": [
+                20.250812530517579,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Barrels",
+            "pos": [
+                8702.009765625,
+                142.281005859375,
+                2955.409912109375
+            ],
+            "ypr": [
+                -63.98530578613281,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                8712.9697265625,
+                153.18299865722657,
+                2952.860107421875
+            ],
+            "ypr": [
+                -54.81151580810547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Green",
+            "pos": [
+                8788.6396484375,
+                162.0989990234375,
+                2922.080078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [
+                8793.2802734375,
+                162.41299438476563,
+                2912.860107421875
+            ],
+            "ypr": [
+                0.26927438378334048,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                8746.009765625,
+                158.0070037841797,
+                2932.969970703125
+            ],
+            "ypr": [
+                -112.31505584716797,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                8768.4599609375,
+                162.2209930419922,
+                2915.280029296875
+            ],
+            "ypr": [
+                -10.529354095458985,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
